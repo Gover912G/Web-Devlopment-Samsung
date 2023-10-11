@@ -1,0 +1,36 @@
+/**{*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    text-decoration: none;*/
+/*}*/
+
+body
+{
+    background: beige;
+}
+section{
+    width: 50%;
+    align-items: center;
+    border: 2px solid blue;
+    border-radius: 15px;
+    background: aqua;
+    padding: 5px;
+    margin: auto;
+}
+form
+{
+    margin: auto;
+    align-content: center;
+}
+form h4
+{
+    align-items: center;
+}
+label
+
+input{
+  background-color: white;
+  background-position: 10px 10px;
+  margin: auto;
+  padding: 40px;
+}
